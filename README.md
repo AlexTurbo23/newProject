@@ -11,7 +11,8 @@ Developed as a Maven project that can be easily integrated with Jenkins and run 
 2. Путь C://
 3. git clone https://github.com/AlexTurbo23/newProject/
 4. Открываем проект в IntelliJ IDEA
-5. Нажимаем на папке APITest ctrl + Shift + F10 для запуска тестов
-6. Приятного просмотра
+5. Нажимаем на папке APITest ctrl + Shift + F10 для запуска тестов выбираем junit
+6. Нажимаем на папке testClassPackage ctrl + Shift + F10 для запуска тестов выбираем TestNG
+7. Приятного просмотра
 
 
