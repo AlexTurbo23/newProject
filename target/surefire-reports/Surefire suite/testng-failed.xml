@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" name="Failed suite [Surefire suite]" verbose="0">
+  <test thread-count="1" name="Surefire test(failed)" verbose="0">
+    <classes>
+      <class name="testClassPackage.TestClass">
+        <methods>
+          <include name="testcase2_login_to_tracker"/>
+          <include name="SetUp"/>
+          <include name="tearDown"/>
+          <include name="testcase1_create_new_user"/>
+        </methods>
+      </class> <!-- testClassPackage.TestClass -->
+      <class name="testClassPackage.TestClass1">
+        <methods>
+          <include name="testcase1_create_category"/>
+          <include name="testcase6_delete_expenses"/>
+          <include name="testcase4_add_expenses"/>
+          <include name="testcase5_edit_expenses"/>
+          <include name="testcase7_list_expenses"/>
+          <include name="testcase2_edit_category"/>
+          <include name="testcase9_edit_user_name"/>
+          <include name="SetUp"/>
+          <include name="tearDown"/>
+          <include name="testcase8_edit_user_account"/>
+          <include name="testcase3_delete_category"/>
+        </methods>
+      </class> <!-- testClassPackage.TestClass1 -->
+    </classes>
+  </test> <!-- Surefire test(failed) -->
+</suite> <!-- Failed suite [Surefire suite] -->

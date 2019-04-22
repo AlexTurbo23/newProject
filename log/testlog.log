@@ -1,0 +1,176 @@
+2019-04-20 21:45:48,033 - NewTest -INFO -  Click to the link 'Computers and Notebooks' 
+2019-04-20 21:45:49,270 - NewTest -INFO - Click to the link 'Notebooks' 
+2019-04-20 21:45:54,038 - NewTest -INFO -  Click to the link 'Notebooks with SSD' 
+2019-04-20 21:45:54,169 - NewTest -INFO - Move cursor to the first product
+2019-04-20 21:45:54,436 - NewTest -INFO - Click to the 'Add to compare' button
+2019-04-20 21:45:54,936 - NewTest -INFO - Stop web driver and wait
+2019-04-20 21:45:55,028 - NewTest -INFO - Move cursor to the second product
+2019-04-20 21:45:59,029 - NewTest -INFO - Stop web driver and wait
+2019-04-20 21:45:59,131 - NewTest -INFO - Click to the 'Add to compare' button
+2019-04-20 21:46:02,586 - NewTest -INFO - Click to the 'Compare' button
+2019-04-20 21:46:04,165 - NewTest -INFO - Click to the 'Compare this products' button
+2019-04-20 21:46:06,548 - NewTest -INFO - Click to the 'Only difference' button
+2019-04-20 21:46:08,800 - NewTest -INFO - Test False
+2019-04-20 21:58:22,200 - NewTest -INFO -  Click to the link 'Computers and Notebooks' 
+2019-04-20 21:58:23,694 - NewTest -INFO - Click to the link 'Notebooks' 
+2019-04-20 21:58:28,742 - NewTest -INFO -  Click to the link 'Notebooks with SSD' 
+2019-04-20 21:58:28,866 - NewTest -INFO - Move cursor to the first product
+2019-04-20 21:58:29,134 - NewTest -INFO - Click to the 'Add to compare' button
+2019-04-20 21:58:29,634 - NewTest -INFO - Stop web driver and wait
+2019-04-20 21:58:29,707 - NewTest -INFO - Move cursor to the second product
+2019-04-20 21:58:33,708 - NewTest -INFO - Stop web driver and wait
+2019-04-20 21:58:33,811 - NewTest -INFO - Click to the 'Add to compare' button
+2019-04-20 21:58:37,404 - NewTest -INFO - Click to the 'Compare' button
+2019-04-20 21:58:38,792 - NewTest -INFO - Click to the 'Compare this products' button
+2019-04-20 21:58:41,137 - NewTest -INFO - Click to the 'Only difference' button
+2019-04-20 21:58:43,391 - NewTest -INFO - Test False
+2019-04-20 22:07:14,711 - NewTest -INFO -  Click to the link 'Computers and Notebooks' 
+2019-04-20 22:07:15,978 - NewTest -INFO - Click to the link 'Notebooks' 
+2019-04-20 22:07:21,007 - NewTest -INFO -  Click to the link 'Notebooks with SSD' 
+2019-04-20 22:07:21,122 - NewTest -INFO - Move cursor to the first product
+2019-04-20 22:07:21,349 - NewTest -INFO - Click to the 'Add to compare' button
+2019-04-20 22:07:21,850 - NewTest -INFO - Stop web driver and wait
+2019-04-20 22:07:21,930 - NewTest -INFO - Move cursor to the second product
+2019-04-20 22:07:25,931 - NewTest -INFO - Stop web driver and wait
+2019-04-20 22:07:26,031 - NewTest -INFO - Click to the 'Add to compare' button
+2019-04-20 22:07:29,512 - NewTest -INFO - Click to the 'Compare' button
+2019-04-20 22:07:31,422 - NewTest -INFO - Click to the 'Compare this products' button
+2019-04-20 22:07:31,422 - NewTest -INFO - String comparison 'All parameters page'
+2019-04-20 22:07:33,737 - NewTest -INFO - Click to the 'Only difference' button
+2019-04-20 22:07:34,737 - NewTest -INFO - String comparison'Only difference page'
+2019-04-20 22:07:36,000 - NewTest -INFO - Counter and the number of lines does not match - TEST FALSE
+2019-04-20 22:11:12,539 - NewTest -INFO -  Click to the link 'Computers and Notebooks' 
+2019-04-20 22:11:14,518 - NewTest -INFO - Click to the link 'Notebooks' 
+2019-04-20 22:11:18,834 - NewTest -INFO -  Click to the link 'Notebooks with SSD' 
+2019-04-20 22:11:18,962 - NewTest -INFO - Move cursor to the first product
+2019-04-20 22:11:19,214 - NewTest -INFO - Click to the 'Add to compare' button
+2019-04-20 22:11:19,714 - NewTest -INFO - Stop web driver and wait
+2019-04-20 22:11:19,815 - NewTest -INFO - Move cursor to the second product
+2019-04-20 22:11:23,816 - NewTest -INFO - Stop web driver and wait
+2019-04-20 22:11:23,918 - NewTest -INFO - Click to the 'Add to compare' button
+2019-04-20 22:11:27,538 - NewTest -INFO - Click to the 'Compare' button
+2019-04-20 22:11:29,110 - NewTest -INFO - Click to the 'Compare this products' button
+2019-04-20 22:11:29,110 - NewTest -INFO - String comparison 'All parameters page'
+2019-04-20 22:11:31,511 - NewTest -INFO - Click to the 'Only difference' button
+2019-04-20 22:11:32,513 - NewTest -INFO - String comparison'Only difference page'
+2019-04-20 22:11:33,752 - NewTest -INFO - Counter and the number of lines does not match - TEST FALSE
+2019-04-22 10:54:51,378 - NewTest -INFO - baseURI = 'https://reqres.in/'
+2019-04-22 11:01:43,524 - NewTest -INFO - baseURI = 'https://reqres.in/'
+2019-04-22 11:01:46,298 - NewTest -INFO - Users id
+2019-04-22 11:01:46,308 - NewTest -INFO - Users first name
+2019-04-22 11:01:46,316 - NewTest -INFO - Users last name
+2019-04-22 11:01:46,317 - NewTest -INFO - All json response
+2019-04-22 11:01:46,317 - NewTest -INFO - Expected Result
+2019-04-22 11:03:14,301 - NewTest -INFO - baseURI = 'https://reqres.in/'
+2019-04-22 11:03:16,655 - NewTest -INFO - Users id
+2019-04-22 11:03:16,666 - NewTest -INFO - Users first name
+2019-04-22 11:03:16,675 - NewTest -INFO - Users last name
+2019-04-22 11:03:16,675 - NewTest -INFO - All json response
+2019-04-22 11:03:16,676 - NewTest -INFO - Expected Result
+2019-04-22 11:03:28,996 - NewTest -INFO - baseURI = 'https://reqres.in/'
+2019-04-22 11:03:31,238 - NewTest -INFO - Users id
+2019-04-22 11:03:31,247 - NewTest -INFO - Users first name
+2019-04-22 11:03:31,256 - NewTest -INFO - Users last name
+2019-04-22 11:03:31,257 - NewTest -INFO - All json response
+2019-04-22 11:03:31,257 - NewTest -INFO - Expected Result
+2019-04-22 11:04:33,526 - NewTest -INFO - baseURI = 'https://reqres.in/' + '/api/users?page=2' 
+2019-04-22 11:04:36,162 - NewTest -INFO - Users id
+2019-04-22 11:04:36,172 - NewTest -INFO - Users first name
+2019-04-22 11:04:36,180 - NewTest -INFO - Users last name
+2019-04-22 11:04:36,180 - NewTest -INFO - All json response
+2019-04-22 11:04:36,181 - NewTest -INFO - Expected Result
+2019-04-22 11:26:10,658 - NewTest -INFO - baseURI = 'https://reqres.in/' + '/api/register' 
+2019-04-22 11:27:10,428 - NewTest -INFO - baseURI = 'https://reqres.in/' + '/api/register' 
+2019-04-22 11:28:29,127 - NewTest -INFO - baseURI = 'https://reqres.in/' + '/api/register' 
+2019-04-22 11:46:31,262 - NewTest -INFO - baseURI = 'https://reqres.in/' + '/api/register' 
+2019-04-22 11:48:55,566 - NewTest -INFO - baseURI = 'https://reqres.in/' + '/api/register' 
+2019-04-22 11:50:48,755 - NewTest -INFO - baseURI = 'https://reqres.in/' + '/api/register' 
+2019-04-22 11:52:26,064 - NewTest -INFO - baseURI = 'https://reqres.in/' + '/api/register' 
+2019-04-22 12:07:50,993 - NewTest -INFO - baseURI = 'https://reqres.in/' + '/api/register' 
+2019-04-22 12:08:30,461 - NewTest -INFO - baseURI = 'https://reqres.in/' + '/api/register' 
+2019-04-22 12:09:19,547 - NewTest -INFO - baseURI = 'https://reqres.in/' + '/api/register' 
+2019-04-22 12:13:16,560 - NewTest -INFO - baseURI = 'https://reqres.in/' + '/api/register' 
+2019-04-22 12:15:15,289 - NewTest -INFO - baseURI = 'https://reqres.in/' + '/api/register' 
+2019-04-22 12:15:44,099 - NewTest -INFO - baseURI = 'https://reqres.in/' + '/api/register' 
+2019-04-22 12:36:36,500 - NewTest -INFO - baseURI = 'https://reqres.in/' + '/api/register' 
+2019-04-22 12:51:46,039 - NewTest -INFO - baseURI = 'https://reqres.in/' + '/api/register' 
+2019-04-22 12:53:01,710 - NewTest -INFO - baseURI = 'https://reqres.in/' + '/api/register' 
+2019-04-22 12:53:39,996 - NewTest -INFO - baseURI = 'https://reqres.in/' + '/api/register' 
+2019-04-22 12:55:32,136 - NewTest -INFO - baseURI = 'https://reqres.in/' + '/api/register' 
+2019-04-22 13:00:24,891 - NewTest -INFO - baseURI = 'https://reqres.in/' + '/api/register' 
+2019-04-22 13:11:40,083 - NewTest -INFO - baseURI = 'https://reqres.in/' + '/api/register' 
+2019-04-22 13:20:40,317 - NewTest -INFO - baseURI = 'https://reqres.in/' + '/api/register' 
+2019-04-22 13:30:57,086 - NewTest -INFO - baseURI = 'https://reqres.in/' + '/api/register' 
+2019-04-22 13:33:40,561 - NewTest -INFO - baseURI = 'https://reqres.in/' + '/api/register' 
+2019-04-22 13:36:58,057 - NewTest -INFO - baseURI = 'https://reqres.in/' + '/api/register' 
+2019-04-22 13:39:34,497 - NewTest -INFO - baseURI = 'https://reqres.in/' + '/api/register' 
+2019-04-22 13:46:17,454 - NewTest -INFO - baseURI = 'https://reqres.in/' + '/api/register' 
+2019-04-22 13:56:48,901 - NewTest -INFO - baseURI = 'https://reqres.in/' + '/api/login' 
+2019-04-22 14:02:24,471 - NewTest -INFO - baseURI = 'https://reqres.in/' + '/api/login' 
+2019-04-22 14:09:45,881 - NewTest -INFO - baseURI = 'https://reqres.in/' + '/api/login' 
+2019-04-22 14:18:23,753 - NewTest -INFO - baseURI = 'https://reqres.in/' + '/api/login' 
+2019-04-22 14:18:26,105 - NewTest -INFO - baseURI = 'https://reqres.in/' + '/api/register' 
+2019-04-22 14:18:26,406 - NewTest -INFO - baseURI = 'https://reqres.in/' + '/api/users?page=2' 
+2019-04-22 14:18:26,980 - NewTest -INFO - Users id
+2019-04-22 14:18:26,989 - NewTest -INFO - Users first name
+2019-04-22 14:18:26,996 - NewTest -INFO - Users last name
+2019-04-22 14:18:26,996 - NewTest -INFO - All json response
+2019-04-22 14:18:26,997 - NewTest -INFO - Expected Result
+2019-04-22 14:19:30,543 - NewTest -INFO -  Click to the link 'Computers and Notebooks' 
+2019-04-22 14:19:31,818 - NewTest -INFO - Click to the link 'Notebooks' 
+2019-04-22 14:19:36,464 - NewTest -INFO -  Click to the link 'Notebooks with SSD' 
+2019-04-22 14:19:36,556 - NewTest -INFO - Move cursor to the first product
+2019-04-22 14:19:36,695 - NewTest -INFO - Click to the 'Add to compare' button
+2019-04-22 14:19:37,195 - NewTest -INFO - Stop web driver and wait
+2019-04-22 14:20:39,132 - NewTest -INFO -  Click to the link 'Computers and Notebooks' 
+2019-04-22 14:20:40,458 - NewTest -INFO - Click to the link 'Notebooks' 
+2019-04-22 14:20:47,546 - NewTest -INFO -  Click to the link 'Notebooks with SSD' 
+2019-04-22 14:20:47,624 - NewTest -INFO - Move cursor to the first product
+2019-04-22 14:20:47,801 - NewTest -INFO - Click to the 'Add to compare' button
+2019-04-22 14:20:48,302 - NewTest -INFO - Stop web driver and wait
+2019-04-22 14:21:38,678 - NewTest -INFO -  Click to the link 'Computers and Notebooks' 
+2019-04-22 14:21:41,178 - NewTest -INFO - Click to the link 'Notebooks' 
+2019-04-22 14:21:46,060 - NewTest -INFO -  Click to the link 'Notebooks with SSD' 
+2019-04-22 14:21:46,143 - NewTest -INFO - Move cursor to the first product
+2019-04-22 14:21:46,406 - NewTest -INFO - Click to the 'Add to compare' button
+2019-04-22 14:21:46,906 - NewTest -INFO - Stop web driver and wait
+2019-04-22 14:41:47,666 - NewTest -INFO -  Click to the link 'Computers and Notebooks' 
+2019-04-22 14:41:49,035 - NewTest -INFO - Click to the link 'Notebooks' 
+2019-04-22 14:41:54,332 - NewTest -INFO -  Click to the link 'Notebooks with SSD' 
+2019-04-22 14:41:54,417 - NewTest -INFO - Move cursor to the first product
+2019-04-22 14:41:54,600 - NewTest -INFO - Click to the 'Add to compare' button
+2019-04-22 14:41:55,101 - NewTest -INFO - Stop web driver and wait
+2019-04-22 14:41:55,195 - NewTest -INFO - Move cursor to the second product
+2019-04-22 14:41:59,197 - NewTest -INFO - Stop web driver and wait
+2019-04-22 14:42:58,048 - NewTest -INFO -  Click to the link 'Computers and Notebooks' 
+2019-04-22 14:42:59,530 - NewTest -INFO - Click to the link 'Notebooks' 
+2019-04-22 14:43:03,916 - NewTest -INFO -  Click to the link 'Notebooks with SSD' 
+2019-04-22 14:43:04,010 - NewTest -INFO - Move cursor to the first product
+2019-04-22 14:43:04,155 - NewTest -INFO - Click to the 'Add to compare' button
+2019-04-22 14:43:04,657 - NewTest -INFO - Stop web driver and wait
+2019-04-22 14:43:04,775 - NewTest -INFO - Move cursor to the second product
+2019-04-22 14:43:08,776 - NewTest -INFO - Stop web driver and wait
+2019-04-22 14:43:08,875 - NewTest -INFO - Click to the 'Add to compare' button
+2019-04-22 14:43:13,992 - NewTest -INFO - Click to the 'Compare' button
+2019-04-22 14:43:18,030 - NewTest -INFO - Click to the 'Compare this products' button
+2019-04-22 14:43:18,030 - NewTest -INFO - String comparison 'All parameters page'
+2019-04-22 14:43:20,382 - NewTest -INFO - Click to the 'Only difference' button
+2019-04-22 14:43:21,382 - NewTest -INFO - String comparison'Only difference page'
+2019-04-22 14:43:22,618 - NewTest -INFO - Counter and the number of lines does not match - TEST FALSE
+2019-04-22 14:43:22,618 - NewTest -INFO - Browser closed
+2019-04-22 14:47:51,709 - NewTest -INFO -  Click to the link 'Computers and Notebooks' 
+2019-04-22 14:47:53,153 - NewTest -INFO - Click to the link 'Notebooks' 
+2019-04-22 14:47:57,925 - NewTest -INFO -  Click to the link 'Notebooks with SSD' 
+2019-04-22 14:47:58,016 - NewTest -INFO - Move cursor to the first product
+2019-04-22 14:47:58,190 - NewTest -INFO - Click to the 'Add to compare' button
+2019-04-22 14:47:58,690 - NewTest -INFO - Stop web driver and wait
+2019-04-22 14:47:58,763 - NewTest -INFO - Move cursor to the second product
+2019-04-22 14:48:02,765 - NewTest -INFO - Stop web driver and wait
+2019-04-22 14:48:02,864 - NewTest -INFO - Click to the 'Add to compare' button
+2019-04-22 14:48:07,866 - NewTest -INFO - Click to the 'Compare' button
+2019-04-22 14:48:09,456 - NewTest -INFO - Click to the 'Compare this products' button
+2019-04-22 14:48:09,456 - NewTest -INFO - String comparison 'All parameters page'
+2019-04-22 14:48:11,814 - NewTest -INFO - Click to the 'Only difference' button
+2019-04-22 14:48:12,815 - NewTest -INFO - String comparison'Only difference page'
+2019-04-22 14:48:14,056 - NewTest -INFO - Counter and the number of lines does not match - TEST FALSE
+2019-04-22 14:48:14,056 - NewTest -INFO - Browser closed
